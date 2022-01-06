@@ -1,0 +1,70 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.box{
+    width: 15%;
+    height:300px;
+    border: 1px solid red;
+    margin-top:2%;
+    margin-left:42%;    
+    padding-top:20px;
+    padding-bottom:20px;           
+    padding-left:40px;          
+    padding-right:auto;
+    margin-bottom:2%;
+}
+.data{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.inputs{
+    width: 100%;
+    height:72px;
+    background-color: aqua;
+}
+.lable1{
+    margin-top:1.5%;
+    margin-left:2%;
+    font-size:20px;
+    font-family:'Courier New', Courier, monospace;
+    float: left;
+}
+.lable{
+    margin-top:1.5%;
+    margin-left:2%;
+    font-size:20px;
+    font-family:'Courier New', Courier, monospace;
+    float:left;
+
+}
+
+.i1{
+    margin-left:0.5%;
+    margin-top:1.5%;
+    font-size:18px;
+    font-family:'Courier New', Courier, monospace;
+    float: left;
+    border:1px solid black;
+    border-radius:5px;
+}
+.b1{
+    margin-left:2%;
+    width: 11%;
+    margin-top:1.3%;
+    font-size:14px;
+    font-weight: 600;;
+    padding:5px;
+    border-radius: 10px;
+    background-color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid black;    
+    outline:none;
+}
+.b1:hover{
+    color:white;
+    background-color: rgb(130, 150, 110);
+    transition: 700ms;
+}

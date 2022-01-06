@@ -1,0 +1,2 @@
+1. Create Table using HTML, CSS and JS in which user will enter table number, starting point and ending point
+2. Create divs with loop and confitional statements
